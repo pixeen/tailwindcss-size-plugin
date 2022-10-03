@@ -28,7 +28,6 @@ module.exports = {
 The size plugin provides a `size` component that lets you set the width and height of an element at the same time.
 
 ```html
-<div class="s-64">
-    64 square
-</div>
+<div class="s-64">64 square</div>
+<div class="s-[100px]">100px square</div>
 ```
