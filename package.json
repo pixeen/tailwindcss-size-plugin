@@ -1,0 +1,42 @@
+{
+  "name": "tailwindcss-size-plugin",
+  "description": "A Tailwind CSS plugin that lets you set the width and height at the same time.",
+  "version": "0.0.1",
+  "license": "MIT",
+  "main": "index.js",
+  "author": {
+    "name": "Jeroen Gerits",
+    "email": "jeroen@gerits.email"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pixeen/tailwindcss-size-plugin.git"
+  },
+  "bugs": {
+    "url": "https://github.com/pixeen/tailwindcss-size-plugin/issues"
+  },
+  "homepage": "https://github.com/pixeen/tailwindcss-size-plugin#readme",
+  "keywords": [
+    "Tailwind CSS",
+    "CSS",
+    "Plugin",
+    "Size",
+    "Width",
+    "Height"
+  ],
+  "devDependencies": {
+    "autoprefixer": "^10.4.12",
+    "husky": "^8.0.1",
+    "lint-staged": "^13.0.3",
+    "postcss": "^8.4.17",
+    "prettier": "^2.7.1",
+    "tailwindcss": "^3.1.8"
+  },
+  "lint-staged": {
+    "*.{js,json,md}": "prettier --write"
+  },
+  "scripts": {
+    "prepare": "husky install",
+    "format": "prettier . --write"
+  }
+}
