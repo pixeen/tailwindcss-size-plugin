@@ -1,7 +1,5 @@
 # Tailwind CSS size plugin
 
-> This plugin is still in development mode, do not use in production.
-
 A Tailwind CSS plugin that lets you set the width and height at the same time.
 
 ## Getting Started

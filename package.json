@@ -1,7 +1,7 @@
 {
   "name": "tailwindcss-size-plugin",
   "description": "A Tailwind CSS plugin that lets you set the width and height at the same time.",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "license": "MIT",
   "main": "index.js",
   "author": {
