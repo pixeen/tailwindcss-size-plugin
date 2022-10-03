@@ -29,3 +29,8 @@ The size plugin provides a `size` component that lets you set the width and heig
 <div class="s-64">64 square</div>
 <div class="s-[100px]">100px square</div>
 ```
+
+## Features
+
+- Supports negative values
+- Supports arbitrary values
