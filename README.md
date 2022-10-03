@@ -32,5 +32,4 @@ The size plugin provides a `size` component that lets you set the width and heig
 
 ## Features
 
-- Supports negative values
 - Supports arbitrary values
